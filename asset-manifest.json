@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avias.github.io-/static/css/main.9a7dee3a.css",
+    "main.js": "/avias.github.io-/static/js/main.f3657c60.js",
+    "static/media/logoCat.png": "/avias.github.io-/static/media/logoCat.1d4489f3f6a3c0e8ecb6.png",
+    "index.html": "/avias.github.io-/index.html",
+    "static/media/Checkbox.svg": "/avias.github.io-/static/media/Checkbox.0fa36354974ac983e8c4.svg",
+    "static/media/Form.svg": "/avias.github.io-/static/media/Form.ad129cbfffeae07a4acb.svg",
+    "main.9a7dee3a.css.map": "/avias.github.io-/static/css/main.9a7dee3a.css.map",
+    "main.f3657c60.js.map": "/avias.github.io-/static/js/main.f3657c60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7dee3a.css",
+    "static/js/main.f3657c60.js"
+  ]
+}
